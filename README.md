@@ -2,6 +2,10 @@
 
 Este é um projeto de aplicativo web simples em PHP chamado CRUD (Create, Read, Update, Delete), que permite a criação, leitura, atualização e exclusão de registros de usuários em um banco de dados MySQL. O projeto é composto por vários arquivos PHP e um arquivo SQL para criar e configurar a tabela de usuários no banco de dados.
 
+![image](https://github.com/selogerkkk/phpcrud/assets/101962124/4d0c0184-6f85-4a84-b4b4-375018ac546d)
+![image](https://github.com/selogerkkk/phpcrud/assets/101962124/733ee1c2-bf5e-4b9b-bd9b-0a19bbb3b4e2)
+
+
 ## Estrutura do Projeto
 
 A estrutura do projeto consiste nos seguintes arquivos e diretórios:
